@@ -1,8 +1,8 @@
 ## Hello there, I’m Duong. Welcome to my GitHub!👋
-About me:
-- 🔭 I am currently a Graduate Research Assistant and Doctoral student in the Department of Agricultural and Applied Economics at Virginia Tech.
+### About me:
+🔭 I am currently a Graduate Research Assistant and Doctoral student in the Department of Agricultural and Applied Economics at Virginia Tech.
 
-## My research Interests
+### My research Interests
 - Microeconometrics (Causal Inference)
 - Machine Learning and Deep Learning
 - Experimental Design and Application
