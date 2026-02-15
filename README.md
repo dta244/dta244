@@ -7,7 +7,7 @@
 - Machine Learning and Deep Learning
 - Experimental Design and Application
 - Environmental and Resource Economics
-- Green Development
+- Sustainable Development
 
 <!--
 **dta244/dta244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
