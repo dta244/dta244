@@ -3,10 +3,8 @@
 🔭 I am currently a Graduate Research Assistant and Doctoral student in the Department of Agricultural and Applied Economics at Virginia Tech.
 
 ### My research Interests
-- Microeconometrics (Causal Inference)
-- Machine Learning and Deep Learning
-- Experimental Design and Application
-- Environmental and Resource Economics
+- Experimentation, Causal Inference, and Machine Learning 
+- Agricultural, Environmental and Resource Economics
 - Sustainable Development
 
 <!--
